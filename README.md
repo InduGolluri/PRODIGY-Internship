@@ -16,7 +16,8 @@ The Data Cleaning and Exploratory Data Analysis (EDA) project focuses on transfo
 * Insight Generation: To generate actionable insights that can guide decision-making processes or inform subsequent analyses.
 
 ## Key Steps Involved
-#### 1.Dataset Selection: Choose an appropriate dataset relevant to the domain of interest, which could be sourced from platforms like Kaggle, UCI Machine Learning Repository, or public datasets.
+#### 1.Dataset Selection:
+Choose an appropriate dataset relevant to the domain of interest, which could be sourced from platforms like Kaggle, UCI Machine Learning Repository, or public datasets.
 #### 2. Data Cleaning:
 
 * Handling Missing Values: Identify missing values and apply strategies to deal with them, such as imputation or deletion.
@@ -28,4 +29,5 @@ The Data Cleaning and Exploratory Data Analysis (EDA) project focuses on transfo
 * Descriptive Statistics: Calculate summary statistics (mean, median, mode, etc.) to understand the central tendency and distribution of the data.
 * Data Visualization: Create visualizations (histograms, scatter plots, box plots, etc.) to identify patterns and relationships between variables.
 * Correlation Analysis: Analyze the correlation between numerical variables to understand their relationships.
-#### 4.Reporting Findings: Document insights gained from the EDA process, highlighting key trends and patterns, and making recommendations based on the analysis.
+#### 4.Reporting Findings: 
+Document insights gained from the EDA process, highlighting key trends and patterns, and making recommendations based on the analysis.
