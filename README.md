@@ -1,4 +1,4 @@
-# 
+## Hey, it's Hindhu, your 3nd-year BTech friend! Welcome to github. Let's play and learn together!
 
 
 ## Overview
